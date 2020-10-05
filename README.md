@@ -5,7 +5,7 @@ It's free trial RR Biggest Regular Font, beta version for your exploration my fo
 This fonts can to be used properly in ttf / otf / woff formats. RR Biggest Font also can be used for EPUB, website fonts or font apps. 
 This font is suitable for striking displays such as posters, logos and branding identity, taglines, cover designs, etc.
 
-RR Biggest Regular has 3 weights:
+	RR Biggest Regular has 3 weights:
 	1. RR Biggest Bold Display, 
 	2. RR Biggest Thin Display, 
 	3. RR Biggest Regular FULL a-z and A-Z.
