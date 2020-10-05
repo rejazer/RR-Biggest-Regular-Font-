@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rejazer Portfolio
 
 You can use the [editor on GitHub](https://github.com/rejazer/RR-Biggest-Regular-Font-/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,20 +18,20 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+RR Biggest Regular has 3 weights:
+1. RR Biggest Bold Display, 
+2. RR Biggest Thin Display, 
+3. RR Biggest Regular FULL a-z and A-Z.
 
-**Bold** and _Italic_ and `Code` text
+Release on 29 September 2020 (Rejazer) RR Biggest Regular Font V1.000
 
-[Link](url) and ![Image](src)
-```
+Name: Rejazer (Muhammad Reza Rizky)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Email: rezamuhammad620@gmail.com
 
-### Jekyll Themes
+Website: http://linktr.ee/mata.air
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rejazer/RR-Biggest-Regular-Font-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Retail Fonts: Creativemarket.com/rejazer
 
-### Support or Contact
+Rejazer @ 2020
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
