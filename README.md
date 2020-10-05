@@ -22,7 +22,11 @@ email (E), web-address (if you have one) (W) and
 description (D). This list is in alphabetical order. Also you mention me on Instagram @shapesprings
 
 Name: Rejazer (Muhammad Reza Rizky)
+
 Email: rezamuhammad620@gmail.com
+
 Website: http://linktr.ee/mata.air
+
 Retail Fonts: Creativemarket.com/rejazer
+
 Rejazer @ 2020
