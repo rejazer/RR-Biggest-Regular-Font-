@@ -25,7 +25,7 @@ Name: Rejazer (Muhammad Reza Rizky)
 
 Email: rezamuhammad620@gmail.com
 
-Website: http://linktr.ee/mata.air
+Website: http://linktr.ee/mata.air_
 
 Retail Fonts: Creativemarket.com/rejazer
 
